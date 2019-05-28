@@ -27,3 +27,5 @@ The app prompts users with three messages:
 * [Inquirer.js](https://www.npmjs.com/package/inquirer)
 
 # Working Proof
+The application shows all products with: item_id, product_name and price
+https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/all_products.png

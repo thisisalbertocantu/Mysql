@@ -22,8 +22,8 @@ The app prompts users with three messages:
   * stock_quantity (how much of the product is available in stores)
 
 # Built with
-* [Node.js] https://nodejs.org/
-* [MySQL] https://www.mysql.com/
-* [Inquirer.js] https://www.npmjs.com/package/inquirer
+* ![Node.js] https://nodejs.org/
+* ![MySQL] https://www.mysql.com/
+* ![Inquirer.js] https://www.npmjs.com/package/inquirer
 
 # Working Proof

@@ -28,4 +28,7 @@ The app prompts users with three messages:
 
 # Working Proof
 The application shows all products with: item_id, product_name and price
-https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/all_products.png
+![image of all_products](https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/all_products.png)
+
+When the user chooses "Select all products"
+![select all_products](https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/select all_products.png)

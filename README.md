@@ -31,4 +31,14 @@ The application shows all products with: item_id, product_name and price
 ![image of all_products](https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/all_products.png)
 
 When the user chooses "Select all products"
-![select all_products](https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/select all_products.png)
+![select all_products](https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/select_all_products.png)
+
+The user can select an item to buy
+![buy_item](https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/buy_item.png)
+
+and specify its quantity, the application will check for the item availability and if it's available, a message 
+for the total amount to paid will be displayed, otherwise it will show a message specifying the items unavailability
+![buy_item_quantity](https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/buy_item_quantity.png)
+
+Finally, the user can exit the application once he has finished buying.
+![exit_application](https://github.com/thisisalbertocantu/Node.js-MySQL/blob/master/images/exit_application.png)
